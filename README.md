@@ -1,6 +1,6 @@
 # DFINITY Information
 
-The most up-to-date information about DFINITY.
+Anything significant I can find that even mentions the word "DFINITY".
 
 Considering how fundamentally DFINITY is going to change the world, let's learn as much as possible about it.
 
