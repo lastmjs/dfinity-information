@@ -4,6 +4,10 @@ Anything significant I can find that even mentions the word "DFINITY".
 
 Considering how fundamentally DFINITY is going to change the world, let's learn as much as possible about it.
 
+## June 1, 2018
+
+- [ ] [Dfinity raises over $61 million, rivals Ethereum (Dfinity Review: Dfinity vs Ethereum)](https://smartereum.com/2996/dfinity-raises-over-61-million-rivals-ethereum-dfinity-review-dfinity-vs-ethereum-fri-jun-01/)
+
 ## May 31, 2018
 
 - [ ] [DFINITY : where deep geek tech meets art :)](https://twitter.com/dominic_w/status/1002260693490454528)
@@ -12,6 +16,7 @@ Considering how fundamentally DFINITY is going to change the world, let's learn 
 
 - [ ] [Big Days of Blockchain Scalability](https://medium.com/zkcapital/big-days-of-blockchain-scalability-d696ca3d8d72)
 - [ ] [DFINITY Live Stream](https://www.youtube.com/watch?v=IuXC8bphzmM)
+- [ ] [DFINITY and CoinList Launch ‘Largest Airdrop in History’](http://www.the-blockchain.com/2018/05/30/dfinity-uses-coinlist-largest-airdrop/)
 
 ## May 29, 2018
 
@@ -35,6 +40,10 @@ Considering how fundamentally DFINITY is going to change the world, let's learn 
 
 - [ ] [The DFINITY Internet Computer explained (by popular demand!)](https://twitter.com/dominic_w/status/984270627388375040)
 
+## April 8, 2018
+
+- [ ] [DFINITY In A Nutshell — A Non Technical Introduction](https://medium.com/dfinity/dfinity-in-a-nutshell-a-non-technical-introduction-ec45ec5967c1)
+
 ## April 4, 2018
 
 - [ ] [Announcing the DFINITY “Presale” Fundraise and Public Airdrop](https://medium.com/dfinity/announcing-the-dfinity-presale-fundraise-and-public-airdrop-cdea19892ef6)
@@ -43,6 +52,7 @@ Considering how fundamentally DFINITY is going to change the world, let's learn 
 
 - [ ] [Andreessen Horowitz is backing a crypto-powered 'internet computer' that could be the future of cloud computing](http://www.businessinsider.com/polychain-andreessen-horowitz-dfinity-2018-2?r=UK&IR=T)
 - [ ] [Announcing DFINITY Fundraising Plans, and a Massive Welcome to Polychain Capital and Andreessen Horowitz](https://medium.com/dfinity/announcing-dfinity-fundraising-plans-and-a-massive-welcome-to-polychain-capital-and-andreessen-2ceb34769cd3)
+- [ ] [Dfinity raises $61 million for platform that rivals ethereum](https://www.cnbc.com/2018/02/07/dfinity-raises-61-million-for-platform-that-rivals-ethereum.html)
 
 ## January 24, 2019
 
