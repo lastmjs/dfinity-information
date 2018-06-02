@@ -55,3 +55,4 @@ Considering how fundamentally DFINITY is going to change the world, let's learn 
 ## December 1, 2017
 
 - [ ] [398: DFINITY - The Next Generation Blockchain Computer Protocol](https://www.youtube.com/watch?v=aDNCZFdxqso)
+- [ ] [Full Show: Bloomberg Technology (12/01)](https://www.youtube.com/watch?v=OZ3bVr7YDd4)
