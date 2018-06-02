@@ -23,9 +23,34 @@ Considering how fundamentally DFINITY is going to change the world, let's learn 
 
 - [ ] [New edition of DFINITY "Internet Computer" explainer to celebrate cool things to be announced soon!](https://twitter.com/dominic_w/status/1000179822809640961)
 
+## May 16, 2018
+
+- [ ] [Excited to be part of HTC's "crypto phone" team!](https://twitter.com/dominic_w/status/996903047186993157)
+
+## May 15, 2018
+
+- [ ] [HTC is launching a blockchain-powered phone](https://thenextweb.com/insider/2018/05/15/htc-blockchain-powered-phone/)
+
+## April 11, 2018
+
+- [ ] [The DFINITY Internet Computer explained (by popular demand!)](https://twitter.com/dominic_w/status/984270627388375040)
+
+## April 4, 2018
+
+- [ ] [Announcing the DFINITY “Presale” Fundraise and Public Airdrop](https://medium.com/dfinity/announcing-the-dfinity-presale-fundraise-and-public-airdrop-cdea19892ef6)
+
 ## February 7, 2018
 
 - [ ] [Andreessen Horowitz is backing a crypto-powered 'internet computer' that could be the future of cloud computing](http://www.businessinsider.com/polychain-andreessen-horowitz-dfinity-2018-2?r=UK&IR=T)
+- [ ] [Announcing DFINITY Fundraising Plans, and a Massive Welcome to Polychain Capital and Andreessen Horowitz](https://medium.com/dfinity/announcing-dfinity-fundraising-plans-and-a-massive-welcome-to-polychain-capital-and-andreessen-2ceb34769cd3)
+
+## January 24, 2019
+
+- [ ] [https://medium.com/dfinity/dfinity-white-paper-our-consensus-algorithm-a11adc0a054c](https://medium.com/dfinity/dfinity-white-paper-our-consensus-algorithm-a11adc0a054c)
+
+## January 2, 2018
+
+- [ ] [DFINITY - Explainer Video](https://www.youtube.com/watch?v=kyCfGRZaDnw)
 
 ## December 1, 2017
 
