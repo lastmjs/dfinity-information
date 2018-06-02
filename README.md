@@ -52,7 +52,24 @@ Considering how fundamentally DFINITY is going to change the world, let's learn 
 
 - [ ] [DFINITY - Explainer Video](https://www.youtube.com/watch?v=kyCfGRZaDnw)
 
+## December 2, 2017
+
+- [ ] [398: DFINITY – THE NEXT GENERATION BLOCKCHAIN COMPUTER PROTOCOL](http://techblogwriter.co.uk/difinity/)
+
 ## December 1, 2017
 
 - [ ] [398: DFINITY - The Next Generation Blockchain Computer Protocol](https://www.youtube.com/watch?v=aDNCZFdxqso)
 - [ ] [Full Show: Bloomberg Technology (12/01)](https://www.youtube.com/watch?v=OZ3bVr7YDd4)
+
+## November 25, 2017
+
+- [ ] [1/ PHI - Origins and thinking](https://twitter.com/dominic_w/status/934545186801123328)
+- [ ] [The intentional history of @dfinity in a handful of tweets](https://twitter.com/artia/status/932724166960340994)
+
+## October 25, 2017
+
+- [ ] [A First Look at DFINITY’s testnet (October 2017)](https://medium.com/dfinity/a-first-look-at-dfinit-ys-testnet-october-2017-8a94737bbc4)
+
+## October 17, 2017
+
+- [ ] [Talking blockchain computer & future cloud at WSJ "http://D.LIVE " Laguna Beach](https://twitter.com/dominic_w/status/920355625762152448)
